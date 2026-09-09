@@ -1,0 +1,5 @@
+node_modules/
+fleet-log.db
+fleet-log.db-wal
+fleet-log.db-shm
+*.log
